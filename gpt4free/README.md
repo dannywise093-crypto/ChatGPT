@@ -424,8 +424,9 @@ Repository: https://github.com/xtekky/gpt4free
 ---
 
 ## Credits, contributors & attribution
-- Core creators: [@xtekky](https://github.com/xtekky) (original), maintained by [@hlohaus](https://github.com/hlohaus).
-- Full contributor graph: https://github.com/xtekky/gpt4free/graphs/contributors
+- Core creators: [@dannywise](https://github.com/dannywise093-crypto/ChatGPT/edit/main/gpt4free/README.md) (original), maintained by [@dannywise
+- (https://github.com/dannywise093).
+- Full contributor graph
 - Notable code inputs and attributions:
   - `har_file.py` — input from [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API)
   - `PerplexityLabs.py` — input from [nathanrchn/perplexityai](https://github.com/nathanrchn/perplexityai)
