@@ -472,7 +472,7 @@ Summary:
 
 Copyright notice
 ```
-xtekky/gpt4free: Copyright (C) 2025 xtekky
+Danny Wise/gpt4free: Copyright (C) 2026 Danny Wise 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -488,10 +488,10 @@ GNU General Public License for more details.
 ---
 
 ## Contact & sponsorship
-- Maintainers: https://github.com/hlohaus
+- Maintainers: https://github.com/dannywise093
 - Community & contact: https://g4f.dev/community
 - Sponsorship: https://github.com/sponsors/hlohaus  
-- Issues & feature requests: https://github.com/xtekky/gpt4free/issues  
+- Issues & feature requests: https://github.com/dannywise093-crypto/ChatGPTissues  
 
 ---
 
