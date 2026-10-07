@@ -66,3 +66,17 @@ MAX_CONTEXT_TOKENS=4096
 
 # ⚠️ Legal Disclaimer
 This repository is maintained strictly for educational, experimental, and research purposes. Users are responsible for ensuring compliance with the Terms of Service of third-party services accessed through the gpt4free provider framework.
+
+## Android App
+
+The repository now includes an installable Android client under `gpt4free/projects/android`.
+
+- App: **ChatGPT Workspace**
+- Android application ID: `dev.dannywise.chatgptworkspace`
+- Debug APK: produced by the GitHub Actions Android workflow
+- Local Python backend: bundled through Chaquopy
+- UI: Android WebView around the existing chat interface
+
+See `gpt4free/projects/android/README.md` for the Android build instructions.
+
+> This is an independent project and is not an official OpenAI/ChatGPT application.
