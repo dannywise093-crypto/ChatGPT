@@ -11,9 +11,9 @@
     <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
 
     <application
-        android:label="G4F Chat"
+        android:label="ChatGPT Workspace"
         android:icon="@mipmap/ic_launcher"
-        android:theme="@style/Theme.G4F"
+        android:theme="@style/Theme.ChatGPTWorkspace"
         android:usesCleartextTraffic="true"
         android:hardwareAccelerated="true"
         android:extractNativeLibs="true">
